@@ -1,0 +1,67 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 60px;
+    color: rgb(227, 170, 0);
+    background-color: rgb(58, 58, 58);
+}
+
+h2{
+    font-size: 40px;
+    color: rgb(227, 170, 0);
+    background-color: rgb(58, 58, 58);
+}
+
+p{
+    font-size: 20px;
+    color: black;
+}
+
+a{
+    background-color: rgb(58, 58, 58);
+    color: rgb(227, 170, 0);
+}
+
+a:visited{
+    background-color: rgb(58, 58, 58);
+    color: rgb(227, 170, 0);
+}
+
+a:hover{
+    background-color: rgb(227, 170, 0);
+    color: rgb(58, 58, 58);
+}
+.index-list{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 1px;
+}
+
+a.home-button{
+    font-size: 25px;
+   }
+
+ul{
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+}
+
+.ingredients{
+    font-size: 25px;
+    font-weight: 500;
+    color: rgb(58, 58, 58);
+    background-color: rgb(227, 170, 0);
+}
+
+.steps{
+    font-size: 20px;
+    color: rgb(227, 170,0);
+    background-color: rgb(94, 93, 93);
+}
+
+.steps li{
+    padding: 4px;
+}
